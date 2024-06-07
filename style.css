@@ -1,0 +1,103 @@
+body{
+    margin: 0;
+}
+
+.class1{
+    background-color:black;
+    border:solid rgb(0, 0, 0) 2px;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+.class2{
+    color: rgb(0, 0, 0);
+    border-radius: 10%; 
+    text-decoration:solid;
+    font-size: 20px;
+}
+
+
+
+#id1:hover{
+    color: brown;
+}
+
+#id1{
+    margin-right: 10px;
+}
+
+.class3{
+    text-align: center;
+    padding: 5px;
+}
+.class4{
+    border: solid black 1.5px;
+    background-color: rgba(219, 133, 219, 0.573);
+    text-align: justify;
+    padding-left: 30px;
+}
+
+.abt{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    font-weight: bolder;
+}
+
+.avatar{
+    float:right;
+    margin-top: -105px;
+    border-radius:50%;
+    width: auto;
+}
+
+.background1{
+    background-color: blanchedalmond;
+    width: auto;
+    background-size: cover;
+}
+
+.table1 {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .fa-phone {
+    color: white;
+    font-size: 38px;
+    width: auto;
+  }
+  .fa-envelope{
+    color: gray;
+    font-size: 40px;
+    width: auto;
+  }
+  .fa-linkedin {
+    color: blue;
+    font-size: 40px;
+    width: auto;
+  }
+  .fa-github {
+    color:darkslategrey;
+    font-size: 40px;
+    width: auto;
+  }
+
+  .resume{
+    background-color: darkorange; 
+    border-radius: 5%;
+    border: none;
+    color: white;
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: solid;
+    display: inline-block;
+    font-size: 20px;
+  }
+
+  .footer_style{
+    background-color:black;
+    padding: 5px;
+    color: white;
+    text-align: center;
+}
+
+  
